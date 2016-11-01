@@ -1,0 +1,63 @@
+/*GENERAL*/
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+a:hover {
+  border-bottom: 1px solid #E8B82B;
+}
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+  color: #E8B82B;
+  margin-top: 30px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+p {
+  font-family: 'Roboto Slab', serif;
+  color: #E8B82B;
+  margin-top: -15px;
+}
+
+/*NAVIGATION*/
+#navi {
+  margin-left: 20px;
+}
+
+#navi a{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #38494A;
+  text-decoration: none;
+}
+
+
+/*GALLERY*/
+
+#galtwo {
+  margin-left: -10px;
+}
+
+
+/*ABOUT*/
+#about {
+  max-width: 600px;
+  margin-top: 100px;
+}
+
+#about p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #38494A;
+}
+
+#about h3 {
+  font-family: 'Roboto Slab', serif;
+  color: #38494A;
+  margin-top: 20px;
+}
